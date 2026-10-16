@@ -1,0 +1,7 @@
+# 学习代码的临时产物，不进仓库
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
