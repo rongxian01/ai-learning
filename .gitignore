@@ -5,3 +5,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+
+# VS Code Code Runner 临时文件
+tempCodeRunnerFile.py
